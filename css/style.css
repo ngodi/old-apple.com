@@ -83,8 +83,8 @@ li:last-child{
 }
 
 main{
-    display: flex;
-    justify-content:space-evenly;
+    display: grid;
+    grid-template-columns:25% 25% 25% 25%;
     padding: 2px 0;
     width:100%;
   
