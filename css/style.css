@@ -84,7 +84,7 @@ li:last-child{
 
 main{
     display: flex;
-    justify-content:space-between;
+    justify-content:space-evenly;
     padding: 2px 0;
     width:100%;
   
@@ -93,6 +93,7 @@ main{
 main img{
  max-width: 100%;
  overflow:hidden;
+ box-sizing: border-box;
 }
 
 footer{
