@@ -72,12 +72,11 @@ li:last-child{
 main{
     display: flex;
     justify-content: space-between;
-    padding:5px 0;
-
-}
+    padding: 2px 0;
+    }
 
 .img_div img{
- max-width: 99%;
+ max-width: 100%;
  box-sizing: border-box;
 
 }
