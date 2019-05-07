@@ -83,17 +83,14 @@ li:last-child{
 }
 
 main{
-    display: grid;
-    grid-template-columns:25% 25% 25% 25%;
-    padding: 2px 0;
-    width:100%;
+    width: 100%;
+    position: relative;
   
     }
 
 main img{
- max-width: 100%;
- overflow:hidden;
- box-sizing: border-box;
+    width: 25%;
+    float:left;
 }
 
 footer{
