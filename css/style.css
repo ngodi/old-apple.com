@@ -89,10 +89,8 @@ main{
   
     }
 
-.img_div img{
+.img_div{
  width: 100%;
- box-sizing: border-box;
-
 }
 
 footer{
